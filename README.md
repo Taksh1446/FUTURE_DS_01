@@ -23,7 +23,7 @@ It includes both:
 ---
 
 ## 🚀 Live Dashboard
-(Deployment link will be added here after Streamlit deployment)
+https://futureds01-7dzbumhnxoyp3f3p3vgdif.streamlit.app/
 
 ---
 
